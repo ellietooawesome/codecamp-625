@@ -1,0 +1,13 @@
+#title {
+  color: #ffa8d2;
+  text-align: center;
+  border: #f58a9a dotted 3px;
+  border-radius: 15%;
+}
+#desc {
+  color: white;
+  background-color: #f58a9a;
+  text-align: center;
+  border: white solid 1px;
+  border-radius: 15%;
+}
